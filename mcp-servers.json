@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tail": {
+      "command": "npx",
+      "args": ["-y", "tail-claude-plugin"]
+    }
+  }
+}
