@@ -1,0 +1,18 @@
+{
+  "name": "tail",
+  "version": "2026.2.15",
+  "description": "Run processes in the background and stream their logs back to Claude",
+  "author": {
+    "name": "Fingerskier"
+  },
+  "license": "MIT",
+  "keywords": [
+    "process",
+    "logs",
+    "tail",
+    "streaming",
+    "background",
+    "subprocess"
+  ],
+  "mcpServers": "./mcp-servers.json"
+}
